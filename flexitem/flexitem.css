@@ -47,3 +47,27 @@ h1{
     background-color: tomato;
     order: 2;
 }
+
+
+/* .container{
+    height: 400px;
+    width: 600px;
+    padding: 10px;
+    margin: 20px;
+    border: 3px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: start;
+    justify-content: center;
+    background-color: gray;
+    
+
+}
+.box{
+    width: 75px;
+    height: 75px;
+    margin-right: 5px;
+    margin: 5px;
+    border: 3px solid black;
+} */
